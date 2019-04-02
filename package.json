@@ -1,6 +1,6 @@
 {
   "name": "stylelint-error-string-formatter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "stringFormatter from stylelint but with a re-print of error messages on completion",
   "main": "index.js",
   "repository": "https://gitlab.com/lbennett/stylelint-error-string-formatter.git",
